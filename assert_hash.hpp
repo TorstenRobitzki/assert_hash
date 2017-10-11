@@ -2,6 +2,7 @@
 #define ASSERT_HASH_HPP_INCLUDE_GUARD
 
 #include <climits>
+#include <type_traits>
 
 namespace assert_hash {
 
